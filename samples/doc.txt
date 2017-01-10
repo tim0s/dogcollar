@@ -1,0 +1,2 @@
+channels 1/2 (started on one)
+modes: vibrate, shock, light
